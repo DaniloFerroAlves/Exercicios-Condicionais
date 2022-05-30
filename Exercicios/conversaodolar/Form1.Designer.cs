@@ -30,11 +30,11 @@
         {
             this.txtDols = new System.Windows.Forms.TextBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.lbResultado = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.lbResultado = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.txtcotacao = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -59,34 +59,15 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Convertedor de Dólar para Real";
             // 
-            // label1
+            // button1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(6, 29);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(84, 13);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Qntd Dísponivel";
-            // 
-            // groupBox2
-            // 
-            this.groupBox2.Controls.Add(this.label2);
-            this.groupBox2.Location = new System.Drawing.Point(250, 32);
-            this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(173, 45);
-            this.groupBox2.TabIndex = 2;
-            this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Cotação do Dolar 30/05/2022";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(63, 24);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(40, 18);
-            this.label2.TabIndex = 0;
-            this.label2.Text = "4,73";
+            this.button1.Location = new System.Drawing.Point(9, 73);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(62, 23);
+            this.button1.TabIndex = 3;
+            this.button1.Text = "Converter";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // lbResultado
             // 
@@ -98,15 +79,31 @@
             this.lbResultado.Text = "Resultado";
             this.lbResultado.Visible = false;
             // 
-            // button1
+            // label1
             // 
-            this.button1.Location = new System.Drawing.Point(9, 73);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(62, 23);
-            this.button1.TabIndex = 3;
-            this.button1.Text = "Converter";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(6, 29);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(84, 13);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "Qntd Dísponivel";
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.Controls.Add(this.txtcotacao);
+            this.groupBox2.Location = new System.Drawing.Point(249, 33);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(173, 45);
+            this.groupBox2.TabIndex = 2;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = " Informe a  cotação do Dólar ";
+            // 
+            // txtcotacao
+            // 
+            this.txtcotacao.Location = new System.Drawing.Point(33, 19);
+            this.txtcotacao.Name = "txtcotacao";
+            this.txtcotacao.Size = new System.Drawing.Size(100, 20);
+            this.txtcotacao.TabIndex = 1;
             // 
             // Form1
             // 
@@ -132,8 +129,8 @@
         private System.Windows.Forms.Label lbResultado;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.GroupBox groupBox2;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.TextBox txtcotacao;
     }
 }
 

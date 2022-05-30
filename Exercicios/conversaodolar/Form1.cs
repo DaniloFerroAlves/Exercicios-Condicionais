@@ -24,9 +24,10 @@ namespace conversaodolar
             if (txtDols.Text != "")
             {
                 double dol = double.Parse(txtDols.Text);
-                double real = dol * 4.73;
+                double cotação = double.Parse(txtcotacao.Text);
+                double real = dol * cotação;
                 lbResultado.Visible = true;
-                lbResultado.Text = real.ToString("n2");
+                lbResultado.Text = real.ToString("n2") + " R$";
             }
             else
             {
