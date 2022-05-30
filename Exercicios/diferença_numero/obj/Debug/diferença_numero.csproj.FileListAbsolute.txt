@@ -1,0 +1,11 @@
+D:\Visual studio\diferença_numero\bin\Debug\diferença_numero.exe.config
+D:\Visual studio\diferença_numero\bin\Debug\diferença_numero.exe
+D:\Visual studio\diferença_numero\bin\Debug\diferença_numero.pdb
+D:\Visual studio\diferença_numero\obj\Debug\diferença_numero.csproj.AssemblyReference.cache
+D:\Visual studio\diferença_numero\obj\Debug\diferença_numero.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio\diferença_numero\obj\Debug\diferença_numero.Form1.resources
+D:\Visual studio\diferença_numero\obj\Debug\diferença_numero.Properties.Resources.resources
+D:\Visual studio\diferença_numero\obj\Debug\diferença_numero.csproj.GenerateResource.cache
+D:\Visual studio\diferença_numero\obj\Debug\diferença_numero.csproj.CoreCompileInputs.cache
+D:\Visual studio\diferença_numero\obj\Debug\diferença_numero.exe
+D:\Visual studio\diferença_numero\obj\Debug\diferença_numero.pdb

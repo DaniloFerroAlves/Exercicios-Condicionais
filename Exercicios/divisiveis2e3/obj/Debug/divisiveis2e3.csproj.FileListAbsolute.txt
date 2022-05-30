@@ -1,0 +1,11 @@
+D:\Visual studio\divisiveis2e3\bin\Debug\divisiveis2e3.exe.config
+D:\Visual studio\divisiveis2e3\bin\Debug\divisiveis2e3.exe
+D:\Visual studio\divisiveis2e3\bin\Debug\divisiveis2e3.pdb
+D:\Visual studio\divisiveis2e3\obj\Debug\divisiveis2e3.csproj.AssemblyReference.cache
+D:\Visual studio\divisiveis2e3\obj\Debug\divisiveis2e3.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio\divisiveis2e3\obj\Debug\divisiveis2e3.Form1.resources
+D:\Visual studio\divisiveis2e3\obj\Debug\divisiveis2e3.Properties.Resources.resources
+D:\Visual studio\divisiveis2e3\obj\Debug\divisiveis2e3.csproj.GenerateResource.cache
+D:\Visual studio\divisiveis2e3\obj\Debug\divisiveis2e3.csproj.CoreCompileInputs.cache
+D:\Visual studio\divisiveis2e3\obj\Debug\divisiveis2e3.exe
+D:\Visual studio\divisiveis2e3\obj\Debug\divisiveis2e3.pdb

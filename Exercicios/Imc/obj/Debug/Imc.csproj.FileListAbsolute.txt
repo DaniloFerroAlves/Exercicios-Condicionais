@@ -1,0 +1,11 @@
+D:\Visual studio\Imc\bin\Debug\Imc.exe.config
+D:\Visual studio\Imc\bin\Debug\Imc.exe
+D:\Visual studio\Imc\bin\Debug\Imc.pdb
+D:\Visual studio\Imc\obj\Debug\Imc.csproj.AssemblyReference.cache
+D:\Visual studio\Imc\obj\Debug\Imc.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio\Imc\obj\Debug\Imc.Form1.resources
+D:\Visual studio\Imc\obj\Debug\Imc.Properties.Resources.resources
+D:\Visual studio\Imc\obj\Debug\Imc.csproj.GenerateResource.cache
+D:\Visual studio\Imc\obj\Debug\Imc.csproj.CoreCompileInputs.cache
+D:\Visual studio\Imc\obj\Debug\Imc.exe
+D:\Visual studio\Imc\obj\Debug\Imc.pdb

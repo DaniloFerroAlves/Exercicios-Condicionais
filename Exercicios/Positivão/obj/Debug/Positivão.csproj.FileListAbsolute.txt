@@ -1,0 +1,11 @@
+D:\Visual studio\Positivão\bin\Debug\Positivão.exe.config
+D:\Visual studio\Positivão\bin\Debug\Positivão.exe
+D:\Visual studio\Positivão\bin\Debug\Positivão.pdb
+D:\Visual studio\Positivão\obj\Debug\Positivão.csproj.AssemblyReference.cache
+D:\Visual studio\Positivão\obj\Debug\Positivão.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio\Positivão\obj\Debug\Positivão.Form1.resources
+D:\Visual studio\Positivão\obj\Debug\Positivão.Properties.Resources.resources
+D:\Visual studio\Positivão\obj\Debug\Positivão.csproj.GenerateResource.cache
+D:\Visual studio\Positivão\obj\Debug\Positivão.csproj.CoreCompileInputs.cache
+D:\Visual studio\Positivão\obj\Debug\Positivão.exe
+D:\Visual studio\Positivão\obj\Debug\Positivão.pdb

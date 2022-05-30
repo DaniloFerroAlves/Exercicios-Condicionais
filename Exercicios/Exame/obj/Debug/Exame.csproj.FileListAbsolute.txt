@@ -1,0 +1,11 @@
+D:\Visual studio\Exame\bin\Debug\Exame.exe.config
+D:\Visual studio\Exame\bin\Debug\Exame.exe
+D:\Visual studio\Exame\bin\Debug\Exame.pdb
+D:\Visual studio\Exame\obj\Debug\Exame.csproj.AssemblyReference.cache
+D:\Visual studio\Exame\obj\Debug\Exame.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio\Exame\obj\Debug\Exame.Form1.resources
+D:\Visual studio\Exame\obj\Debug\Exame.Properties.Resources.resources
+D:\Visual studio\Exame\obj\Debug\Exame.csproj.GenerateResource.cache
+D:\Visual studio\Exame\obj\Debug\Exame.csproj.CoreCompileInputs.cache
+D:\Visual studio\Exame\obj\Debug\Exame.exe
+D:\Visual studio\Exame\obj\Debug\Exame.pdb

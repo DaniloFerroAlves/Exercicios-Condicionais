@@ -1,0 +1,11 @@
+D:\Visual studio\saudar\bin\Debug\saudar.exe.config
+D:\Visual studio\saudar\bin\Debug\saudar.exe
+D:\Visual studio\saudar\bin\Debug\saudar.pdb
+D:\Visual studio\saudar\obj\Debug\saudar.csproj.AssemblyReference.cache
+D:\Visual studio\saudar\obj\Debug\saudar.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio\saudar\obj\Debug\saudar.Form1.resources
+D:\Visual studio\saudar\obj\Debug\saudar.Properties.Resources.resources
+D:\Visual studio\saudar\obj\Debug\saudar.csproj.GenerateResource.cache
+D:\Visual studio\saudar\obj\Debug\saudar.csproj.CoreCompileInputs.cache
+D:\Visual studio\saudar\obj\Debug\saudar.exe
+D:\Visual studio\saudar\obj\Debug\saudar.pdb

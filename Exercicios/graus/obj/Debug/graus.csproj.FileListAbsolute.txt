@@ -1,0 +1,11 @@
+D:\Visual studio\graus\bin\Debug\graus.exe.config
+D:\Visual studio\graus\bin\Debug\graus.exe
+D:\Visual studio\graus\bin\Debug\graus.pdb
+D:\Visual studio\graus\obj\Debug\graus.csproj.AssemblyReference.cache
+D:\Visual studio\graus\obj\Debug\graus.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio\graus\obj\Debug\graus.Form1.resources
+D:\Visual studio\graus\obj\Debug\graus.Properties.Resources.resources
+D:\Visual studio\graus\obj\Debug\graus.csproj.GenerateResource.cache
+D:\Visual studio\graus\obj\Debug\graus.csproj.CoreCompileInputs.cache
+D:\Visual studio\graus\obj\Debug\graus.exe
+D:\Visual studio\graus\obj\Debug\graus.pdb

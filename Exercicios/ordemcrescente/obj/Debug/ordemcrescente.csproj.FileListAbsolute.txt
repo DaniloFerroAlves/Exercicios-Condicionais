@@ -1,0 +1,11 @@
+D:\Visual studio\ordemcrescente\bin\Debug\ordemcrescente.exe.config
+D:\Visual studio\ordemcrescente\bin\Debug\ordemcrescente.exe
+D:\Visual studio\ordemcrescente\bin\Debug\ordemcrescente.pdb
+D:\Visual studio\ordemcrescente\obj\Debug\ordemcrescente.csproj.AssemblyReference.cache
+D:\Visual studio\ordemcrescente\obj\Debug\ordemcrescente.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio\ordemcrescente\obj\Debug\ordemcrescente.Form1.resources
+D:\Visual studio\ordemcrescente\obj\Debug\ordemcrescente.Properties.Resources.resources
+D:\Visual studio\ordemcrescente\obj\Debug\ordemcrescente.csproj.GenerateResource.cache
+D:\Visual studio\ordemcrescente\obj\Debug\ordemcrescente.csproj.CoreCompileInputs.cache
+D:\Visual studio\ordemcrescente\obj\Debug\ordemcrescente.exe
+D:\Visual studio\ordemcrescente\obj\Debug\ordemcrescente.pdb

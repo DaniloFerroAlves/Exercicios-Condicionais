@@ -1,0 +1,11 @@
+D:\Visual studio\conversaodolar\bin\Debug\conversaodolar.exe.config
+D:\Visual studio\conversaodolar\bin\Debug\conversaodolar.exe
+D:\Visual studio\conversaodolar\bin\Debug\conversaodolar.pdb
+D:\Visual studio\conversaodolar\obj\Debug\conversaodolar.csproj.AssemblyReference.cache
+D:\Visual studio\conversaodolar\obj\Debug\conversaodolar.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio\conversaodolar\obj\Debug\conversaodolar.Form1.resources
+D:\Visual studio\conversaodolar\obj\Debug\conversaodolar.Properties.Resources.resources
+D:\Visual studio\conversaodolar\obj\Debug\conversaodolar.csproj.GenerateResource.cache
+D:\Visual studio\conversaodolar\obj\Debug\conversaodolar.csproj.CoreCompileInputs.cache
+D:\Visual studio\conversaodolar\obj\Debug\conversaodolar.exe
+D:\Visual studio\conversaodolar\obj\Debug\conversaodolar.pdb
